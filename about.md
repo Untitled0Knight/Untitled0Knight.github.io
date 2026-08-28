@@ -1,3 +1,6 @@
+<style>
+body { font-family: Georgia, serif; }
+</style>
 # About Me
 Hello! I am WT.
 Write a short paragraph about your interests, skills, or goals.
